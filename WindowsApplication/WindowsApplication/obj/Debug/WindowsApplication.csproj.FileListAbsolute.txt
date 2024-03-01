@@ -1,0 +1,11 @@
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.csproj.AssemblyReference.cache
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.csproj.GenerateResource.cache
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\bin\Debug\SturdentRegistrationApplication.exe.config
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\bin\Debug\SturdentRegistrationApplication.exe
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\bin\Debug\SturdentRegistrationApplication.pdb
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\obj\Debug\WindowsApplication.StudentRegistration.resources
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\obj\Debug\SturdentRegistrationApplication.Properties.Resources.resources
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\obj\Debug\SturdentRegistrationApplication.exe
+C:\Users\villa.286986\source\repos\WindowsApplication\WindowsApplication\obj\Debug\SturdentRegistrationApplication.pdb
